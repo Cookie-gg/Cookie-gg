@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="hello-world.png" alt="Hello World" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Cookie_gg 🍋</h1>
 
 <h3 align="center">A student 👨‍🎓 and studying web develops</h3>
