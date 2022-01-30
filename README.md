@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Vue%202.0-3eaf7c?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue" />
     <img src="https://img.shields.io/badge/Webpack-8acff3?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack" />
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
-    <img src="https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
+<!--     <img src="https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" /> -->
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
     <img src="https://img.shields.io/badge/scss-bf4080?style=for-the-badge&logo=sass&logoColor=white" alt="scss" />
