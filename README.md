@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Cookie_gg</h1>
+<h1 align="center">Hi 👋, I'm Cookie_gg 🍋</h1>
 
-<h3 align="center">A student, and studying web develops</h3>
+<h3 align="center">A student 👨‍🎓 and studying web develops</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cookie-gg&label=Profile%20views&color=FFD500&style=flat-square" alt="cookie-gg" /> </p>
 
-### Languages, Tools, and Skills 🛠
+<h3 align="center">Languages, Tools, and Skills 🛠</h3>
 
 <div align="center">
     <h4 align="center">Main</h3>
@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
 </div>
 
-### GitHub Stats 📈
+<h3 align="center">GitHub Stats 📈</h3>
 
 <div align="center">
     <img alt="Top Langs" height="175px" src="https://cookie-gg-stats.vercel.app/api/top-langs/?username=Cookie-gg&count_private=true&layout=compact&theme=dark" />
