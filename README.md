@@ -1,6 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Cookie_gg</h1> -->
-
-![banner](./banner.png)
+<h1 align="center">Hi 👋, I'm Cookie_gg</h1>
 
 <h3 align="center">A student, and studying web develops</h3>
 
