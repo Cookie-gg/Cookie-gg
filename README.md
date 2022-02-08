@@ -42,6 +42,7 @@
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
     <img src="https://img.shields.io/badge/Google%20Cloud-4285f4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google app engine" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/Docker-228ee1?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/GitHub%20Desktop-8241f9?style=for-the-badge&logo=github&logoColor=white" alt="github desktop" />
     <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
