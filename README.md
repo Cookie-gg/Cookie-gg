@@ -53,11 +53,3 @@
     <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
 </div>
-
-<h3 align="center">GitHub Stats 📈</h3>
-
-<div align="center">
-    <img alt="Top Langs" height="175px" src="https://cookie-gg-stats.vercel.app/api/top-langs/?username=Cookie-gg&count_private=true&layout=compact&theme=dark" />
-    <img alt="github stats" height="175px" src="https://cookie-gg-stats.vercel.app/api?username=Cookie-gg&count_private=true&show_icons=true&theme=dark" />
-  </div>
-</div>
